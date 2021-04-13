@@ -168,6 +168,14 @@ Algorithm \ref{alg4.1}
 ![image](https://user-images.githubusercontent.com/38340783/114515921-7600d100-9c6f-11eb-813d-d4db36ca567a.png)
 
 
+**（8）参考文献**
+```
+谷歌学术中bib内容直接粘贴至.bib文件中即可
+
+%引用方法
+\cite{xxx}    %xxx为{与第一个,中间内容
+```
+![image](https://user-images.githubusercontent.com/38340783/114519916-77cc9380-9c73-11eb-85e0-303d79cd4221.png)
 
 
 
