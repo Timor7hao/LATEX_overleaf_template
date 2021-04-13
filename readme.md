@@ -1,3 +1,10 @@
+**初始模板样式及引用方式**
+上传zip文件至overleaf,得到下图初始模板
+![image](https://user-images.githubusercontent.com/38340783/114516772-4b634800-9c70-11eb-9f83-d0d4eceae0d5.png)
+![image](https://user-images.githubusercontent.com/38340783/114516647-2ec71000-9c70-11eb-810c-4bb1a142b64e.png)
+
+
+
 **（1）图占双栏**
 ```
 %样式写法
