@@ -12,7 +12,7 @@
 %样式写法
 \begin{figure*}[hb]             %h:放在此处, p:放在本页, t:top, b:bottom  
     \centering  
-    \subfigure[XXSubfig1CaptionXX   \label{fig:Subfig1}]  
+    \subfigure[XXSubfig1CaptionXX   \label{fig:Subfig1}]                 %XXSubfig1CaptionXX是标题，fig:Subfig1用于引用
     {  
 	\begin{minipage}[b]{0.5\linewidth}  
 	    \centering  
