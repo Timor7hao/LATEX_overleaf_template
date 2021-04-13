@@ -1,5 +1,7 @@
 **初始模板样式及引用方式**
+```
 上传zip文件至overleaf（New Project-Upload Project）,得到下图初始模板
+```
 
 ![image](https://user-images.githubusercontent.com/38340783/114516647-2ec71000-9c70-11eb-810c-4bb1a142b64e.png)
 
@@ -133,6 +135,7 @@ Algorithm \ref{alg4.1}
 **（5）公式**
 ```
 采用Mathpix Snipping Tool软件。
+免费下载地址：https://mathpix.com/
 可直接截取公式，转化成对应latex格式，直接粘贴至overleaf即可，$为原行，$$为另起一行。
 
 公式默认为单栏，若是想让公式双栏，可用图片格式包裹，里面不放图片放公式。
