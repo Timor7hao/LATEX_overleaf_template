@@ -87,6 +87,7 @@ Table \ref{tab:Simulation Parameters}
 
 **（4）算法**
 ```
+%样式写法
 \begin{algorithm}[!htbp] %算法开始 
 \caption{TLAS Simulation Algorithm} %算法的题目 
 \label{alg4.1} %算法的标签 
@@ -120,6 +121,44 @@ Table \ref{tab:Simulation Parameters}
 Algorithm \ref{alg4.1}
 ```
 ![image](https://user-images.githubusercontent.com/38340783/114513640-fd991080-9c6c-11eb-9ca5-cf91cd804973.png)
+
+
+**（5）公式**
+```
+采用Mathpix Snipping Tool软件。
+可直接截取公式，转化成对应latex格式，直接粘贴至overleaf即可，$为原行，$$为另起一行。
+
+公式默认为单栏，若是想让公式双栏，可用图片格式包裹，里面不放图片放公式。
+```
+![image](https://user-images.githubusercontent.com/38340783/114514559-00483580-9c6e-11eb-8742-3203373385b3.png)
+
+
+**（6）文字高亮**
+```
+%引用包
+\usepackage{url}           %该句在含url时自动转化网址格式，可注释
+\usepackage{color}
+\definecolor{M}{rgb}{0,0,1}  
+
+%样式写法
+\textcolor{M}{xxxx}
+```
+![image](https://user-images.githubusercontent.com/38340783/114515526-07bc0e80-9c6f-11eb-9f4c-45a1a8717757.png)
+
+
+**（7）主题词替代**
+```
+%引用包
+\usepackage{xspace}
+\def\ourshort{{TLAS}\xspace}
+
+%样式写法
+\ourshort
+```
+![image](https://user-images.githubusercontent.com/38340783/114515921-7600d100-9c6f-11eb-813d-d4db36ca567a.png)
+
+
+
 
 
 
